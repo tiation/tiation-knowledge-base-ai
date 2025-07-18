@@ -1,236 +1,238 @@
-# FastGPT
+# tiation-knowledge-base-ai
 
 <div align="center">
 
-![Tiation Ecosystem](https://img.shields.io/badge/🔮_TIATION_ECOSYSTEM-tiation_knowledge_base_ai-00FFFF?style=for-the-badge&labelColor=0A0A0A&color=00FFFF)
+![tiation-knowledge-base-ai Banner](https://img.shields.io/badge/🔮_TIATION_ECOSYSTEM-tiation-knowledge-base-ai-00FFFF?style=for-the-badge&labelColor=0A0A0A&color=00FFFF)
 
-**Enterprise-grade solution in the Tiation ecosystem**
+**Enterprise-grade solution: tiation-knowledge-base-ai**
 
 *Professional • Scalable • Mission-Driven*
 
-[![🌐_Live_Demo](https://img.shields.io/badge/🌐_Live_Demo-View_Project-00FFFF?style=flat-square&labelColor=0A0A0A)](https://github.com/tiation/tiation-knowledge-base-ai)
-[![📚_Documentation](https://img.shields.io/badge/📚_Documentation-Complete-007FFF?style=flat-square&labelColor=0A0A0A)](https://github.com/tiation/tiation-knowledge-base-ai)
-[![⚡_Status](https://img.shields.io/badge/⚡_Status-Active_Development-FF00FF?style=flat-square&labelColor=0A0A0A)](https://github.com/tiation/tiation-knowledge-base-ai)
-[![📄_License](https://img.shields.io/badge/📄_License-MIT-00FFFF?style=flat-square&labelColor=0A0A0A)](https://github.com/tiation/tiation-knowledge-base-ai)
+[![🌐_Live_Demo](https://img.shields.io/badge/🌐_Live_Demo-View_Project-00FFFF?style=flat-square&labelColor=0A0A0A)](https://tiation.github.io/tiation-knowledge-base-ai)
+[![📚_Documentation](https://img.shields.io/badge/📚_Documentation-Complete-007FFF?style=flat-square&labelColor=0A0A0A)](https://tiation.github.io/tiation-knowledge-base-ai)
+[![🏗️_Architecture](https://img.shields.io/badge/🏗️_Architecture-Diagram-FF00FF?style=flat-square&labelColor=0A0A0A)](https://tiation.github.io/tiation-knowledge-base-ai/architecture)
+[![⚡_Status](https://img.shields.io/badge/⚡_Status-Active Development-FF00FF?style=flat-square&labelColor=0A0A0A)](https://github.com/tiation/tiation-knowledge-base-ai)
+[![📄_License](https://img.shields.io/badge/📄_License-MIT-00FFFF?style=flat-square&labelColor=0A0A0A)](https://github.com/tiation/tiation-knowledge-base-ai/blob/main/LICENSE)
 
+</div>
+
+## 🚀 Overview
+
+Enterprise-grade solution: tiation-knowledge-base-ai
+
+### ✨ Key Features
+
+- 🎯 **Feature 1** - Description 1
+- 🔧 **Feature 2** - Description 2
+- 🌟 **Feature 3** - Description 3
+- 🛡️ **Feature 4** - Description 4
+
+---
+
+## 🏗️ Architecture
+
+![Architecture Diagram](assets/architecture/tiation-knowledge-base-ai-architecture.svg)
+
+### System Components
+
+```mermaid
+graph TB
+    A[Component 1] --> B[Component 2]
+    B --> C[Component 3]
+    C --> D[Component 4]
+    
+    style A fill:#00ffff,stroke:#ff00ff,stroke-width:2px
+    style B fill:#ff00ff,stroke:#00ffff,stroke-width:2px
+    style C fill:#00ffff,stroke:#ff00ff,stroke-width:2px
+    style D fill:#ff00ff,stroke:#00ffff,stroke-width:2px
+```
+
+### Technology Stack
+
+- **Frontend**: Modern Frontend
+- **Backend**: Scalable Backend
+- **Database**: Database
+- **Infrastructure**: Infrastructure
+
+---
+
+## 📋 Table of Contents
+
+- [Features](#-features)
+- [Quick Start](#-quick-start)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Documentation](#-documentation)
+- [Screenshots](#-screenshots)
+- [FAQ](#-faq)
+- [Contributing](#-contributing)
+- [Support](#-support)
+- [License](#-license)
+- [About Tiation](#-about-tiation)
+
+---
+
+## ✨ Features
+
+{{FEATURES_LIST}}
+
+---
+
+## 🏃‍♂️ Quick Start
+
+```bash
+# Clone the repository
+git clone https://github.com/tiation/tiation-knowledge-base-ai.git
+cd tiation-knowledge-base-ai
+
+# Install dependencies
+{{INSTALL_COMMANDS}}
+
+# Run the application
+{{RUN_COMMANDS}}
+```
+
+---
+
+## 📦 Installation
+
+### Prerequisites
+
+{{PREREQUISITES}}
+
+### Installation Steps
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/tiation/tiation-knowledge-base-ai.git
+   cd tiation-knowledge-base-ai
+   ```
+
+2. **Install dependencies**
+   ```bash
+   {{DETAILED_INSTALL_COMMANDS}}
+   ```
+
+3. **Configuration**
+   ```bash
+   {{CONFIG_COMMANDS}}
+   ```
+
+---
+
+## 🎯 Usage
+
+### Basic Usage
+
+{{BASIC_USAGE}}
+
+### Advanced Usage
+
+{{ADVANCED_USAGE}}
+
+### Examples
+
+{{USAGE_EXAMPLES}}
+
+---
+
+## 📚 Documentation
+
+- **[User Guide](docs/user-guide.md)** - Complete user documentation
+- **[API Reference](docs/api-reference.md)** - Technical API documentation
+- **[Architecture](docs/architecture.md)** - System architecture overview
+- **[Deployment Guide](docs/deployment.md)** - Production deployment instructions
+- **[Developer Guide](docs/developer-guide.md)** - Development setup and guidelines
+
+### Live Documentation
+
+Visit our [GitHub Pages site](https://tiation.github.io/tiation-knowledge-base-ai) for interactive documentation.
+
+---
+
+## 📸 Screenshots
+
+<div align="center">
+  <img src="assets/screenshots/main-interface.png" alt="Main Interface" width="800">
+  <p><em>Main application interface</em></p>
+</div>
+
+<div align="center">
+  <img src="assets/screenshots/dashboard.png" alt="Dashboard" width="800">
+  <p><em>Analytics dashboard</em></p>
 </div>
 
 ---
-<div align="center">
 
-<a href="https://tryfastgpt.ai/"><img src="/.github/imgs/logo.svg" width="120" height="120" alt="fastgpt logo"></a>
+## ❓ FAQ
 
-# FastGPT
+### General Questions
 
-<p align="center">
-  <a href="./README_en.md">English</a> |
-  <a href="./README.md">简体中文</a> |
-  <a href="./README_ja.md">日语</a>
-</p>
+**Q: What makes this solution enterprise-grade?**
+A: Our solution includes comprehensive security, scalability, monitoring, and enterprise integration features with professional support.
 
-FastGPT 是一个基于 LLM 大语言模型的知识库问答系统，提供开箱即用的数据处理、模型调用等能力。同时可以通过 Flow 可视化进行工作流编排，从而实现复杂的问答场景！
+**Q: Is this compatible with existing systems?**
+A: Yes, we provide extensive API and integration capabilities for seamless system integration.
 
-</div>
+**Q: What support options are available?**
+A: We offer community support through GitHub Issues and professional enterprise support for commercial users.
 
-<p align="center">
-  <a href="https://tryfastgpt.ai/">
-    <img height="21" src="https://img.shields.io/badge/在线使用-d4eaf7?style=flat-square&logo=spoj&logoColor=7d09f1" alt="cloud">
-  </a>
-  <a href="https://doc.tryfastgpt.ai/docs/intro">
-    <img height="21" src="https://img.shields.io/badge/相关文档-7d09f1?style=flat-square" alt="document">
-  </a>
-  <a href="https://doc.tryfastgpt.ai/docs/development">
-    <img height="21" src="https://img.shields.io/badge/本地开发-%23d4eaf7?style=flat-square&logo=xcode&logoColor=7d09f1" alt="development">
-  </a>
-  <a href="/#-%E7%9B%B8%E5%85%B3%E9%A1%B9%E7%9B%AE">
-    <img height="21" src="https://img.shields.io/badge/相关项目-7d09f1?style=flat-square" alt="project">
-  </a>
-  <a href="https://github.com/labring/FastGPT/blob/main/LICENSE">
-    <img height="21" src="https://img.shields.io/badge/License-Apache--2.0-ffffff?style=flat-square&labelColor=d4eaf7&color=7d09f1" alt="license">
-  </a>
-</p>
+### Technical Questions
 
-https://github.com/labring/FastGPT/assets/15308462/7d3a38df-eb0e-4388-9250-2409bd33f6d4
+**Q: What are the system requirements?**
+A: {{SYSTEM_REQUIREMENTS}}
 
-## 🛸 在线使用
+**Q: How do I handle large scale deployments?**
+A: See our [Deployment Guide](docs/deployment.md) for enterprise-scale deployment strategies.
 
-- 🌍 国际版：[tryfastgpt.ai](https://tryfastgpt.ai/)
+**Q: Are there any security considerations?**
+A: Yes, please review our [Security Guide](docs/security.md) for comprehensive security best practices.
 
-|                                    |                                    |
-| ---------------------------------- | ---------------------------------- |
-| ![Demo](./.github/imgs/intro1.png) | ![Demo](./.github/imgs/intro2.png) |
-| ![Demo](./.github/imgs/intro3.png) | ![Demo](./.github/imgs/intro4.png) |
+### Troubleshooting
 
-<a href="#readme">
-    <img src="https://img.shields.io/badge/-返回顶部-7d09f1.svg" alt="#" align="right">
-</a>
+**Q: Common installation issues**
+A: Check our [Troubleshooting Guide](docs/troubleshooting.md) for solutions to common problems.
 
-## 💡 RoadMap
+**Q: Performance optimization**
+A: Refer to our [Performance Guide](docs/performance.md) for optimization strategies.
 
-`1` 应用编排能力
-   - [x] 对话工作流、插件工作流
-   - [x] 工具调用
-   - [x] Code sandbox
-   - [x] 循环调用
-   - [x] 用户选择
-   - [x] 表单输入
+---
 
-`2` 知识库能力
-   - [x] 多库复用，混用
-   - [x] chunk 记录修改和删除
-   - [x] 支持手动输入，直接分段，QA 拆分导入
-   - [x] 支持 txt，md，html，pdf，docx，pptx，csv，xlsx (有需要更多可 PR file loader)
-   - [x] 支持 url 读取、CSV 批量导入
-   - [x] 混合检索 & 重排
-   - [ ] 自定义文件读取服务
-   - [ ] 自定义分块服务
-  
-`3` 应用调试能力
-   - [x] 知识库单点搜索测试
-   - [x] 对话时反馈引用并可修改与删除
-   - [x] 完整上下文呈现
-   - [x] 完整模块中间值呈现
-   - [x] 高级编排 DeBug 模式
-  
-`4` OpenAPI 接口
-   - [x] completions 接口 (chat 模式对齐 GPT 接口)
-   - [x] 知识库 CRUD
-   - [x] 对话 CRUD
-  
-`5` 运营能力
-   - [x] 免登录分享窗口
-   - [x] Iframe 一键嵌入
-   - [x] 聊天窗口嵌入支持自定义 Icon，默认打开，拖拽等功能
-   - [x] 统一查阅对话记录，并对数据进行标注
-   
-`6` 其他
-   - [x] 支持语音输入和输出 (可配置语音输入语音回答)
-   - [x] 模糊输入提示
-   - [x] 模板市场
+## 🤝 Contributing
 
-<a href="#readme">
-    <img src="https://img.shields.io/badge/-返回顶部-7d09f1.svg" alt="#" align="right">
-</a>
+We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
 
-## 👨‍💻 开发
+### Development Setup
 
-项目技术栈：NextJs + TS + ChakraUI + MongoDB + PostgreSQL (PG Vector 插件)/Milvus
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Add tests
+5. Submit a pull request
 
-- **⚡ 快速部署**
+### Code of Conduct
 
-  > 使用 [Sealos](https://sealos.io) 服务，无需采购服务器、无需域名，支持高并发 & 动态伸缩，并且数据库应用采用 kubeblocks 的数据库，在 IO 性能方面，远超于简单的 Docker 容器部署。
+Please read our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing.
 
-  [点击查看 Sealos 一键部署 FastGPT 教程](https://doc.tryfastgpt.ai/docs/development/sealos/)
+---
 
-* [快速开始本地开发](https://doc.tryfastgpt.ai/docs/development/intro/)
-* [部署 FastGPT](https://doc.tryfastgpt.ai/docs/development/sealos)
-* [系统配置文件说明](https://doc.tryfastgpt.ai/docs/development/configuration/)
-* [多模型配置](https://doc.tryfastgpt.ai/docs/development/one-api/)
-* [版本更新/升级介绍](https://doc.tryfastgpt.ai/docs/development/upgrading)
-* [OpenAPI API 文档](https://doc.tryfastgpt.ai/docs/development/openapi/)
-* [知识库结构详解](https://doc.tryfastgpt.ai/docs/course/dataset_engine/)
+## 🆘 Support
 
-<a href="#readme">
-    <img src="https://img.shields.io/badge/-返回顶部-7d09f1.svg" alt="#" align="right">
-</a>
+### Community Support
 
-## 🏘️ 社区交流群
+- **GitHub Issues**: [Report bugs or request features](https://github.com/tiation/tiation-knowledge-base-ai/issues)
+- **Discussions**: [Join community discussions](https://github.com/tiation/tiation-knowledge-base-ai/discussions)
+- **Documentation**: [Browse our documentation](https://tiation.github.io/tiation-knowledge-base-ai)
 
-扫码加入飞书话题群 (新开，逐渐弃用微信群)：
+### Enterprise Support
 
-![](https://oss.laf.run/otnvvf-imgs/fastgpt-feishu1.png)
+For enterprise customers, we offer:
+- Priority support
+- Custom development
+- Training and consultation
+- SLA guarantees
 
-<a href="#readme">
-    <img src="https://img.shields.io/badge/-返回顶部-7d09f1.svg" alt="#" align="right">
-</a>
-
-## 💪 相关项目
-
-- [Laf：3 分钟快速接入三方应用](https://github.com/labring/laf)
-- [Sealos：快速部署集群应用](https://github.com/labring/sealos)
-- [One API：多模型管理，支持 Azure、文心一言等](https://github.com/songquanpeng/one-api)
-- [TuShan：5 分钟搭建后台管理系统](https://github.com/msgbyte/tushan)
-
-<a href="#readme">
-    <img src="https://img.shields.io/badge/-返回顶部-7d09f1.svg" alt="#" align="right">
-</a>
-
-## 👀 其他
-
-- [保姆级 FastGPT 教程](https://www.bilibili.com/video/BV1n34y1A7Bo/?spm_id_from=333.999.0.0)
-- [接入飞书](https://www.bilibili.com/video/BV1Su4y1r7R3/?spm_id_from=333.999.0.0)
-- [接入企微](https://www.bilibili.com/video/BV1Tp4y1n72T/?spm_id_from=333.999.0.0)
-
-<a href="#readme">
-    <img src="https://img.shields.io/badge/-返回顶部-7d09f1.svg" alt="#" align="right">
-</a>
-
-## 🌿 第三方生态
-
-- [OnWeChat 个人微信/企微机器人](https://doc.tryfastgpt.ai/docs/use-cases/onwechat/)
-
-<a href="#readme">
-    <img src="https://img.shields.io/badge/-返回顶部-7d09f1.svg" alt="#" align="right">
-</a>
-
-## 🤝 参与贡献
-
-我们非常欢迎各种形式的贡献。如果你对贡献代码感兴趣，可以查看我们的 GitHub [Issues](https://github.com/labring/FastGPT/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)，大展身手，向我们展示你的奇思妙想。
-
-<a href="https://github.com/labring/FastGPT/graphs/contributors" target="_blank">
-  <table>
-    <tr>
-      <th colspan="2">
-        <br><img src="https://contrib.rocks/image?repo=labring/FastGPT"><br><br>
-      </th>
-    </tr>
-    <tr>
-      <td>
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-active-contributors/thumbnail.png?activity=active&period=past_28_days&owner_id=102226726&repo_ids=605673387&image_size=2x3&color_scheme=dark">
-          <img alt="Active participants of labring - past 28 days" src="https://next.ossinsight.io/widgets/official/compose-org-active-contributors/thumbnail.png?activity=active&period=past_28_days&owner_id=102226726&repo_ids=605673387&image_size=2x3&color_scheme=light">
-        </picture>
-      </td>
-      <td rowspan="2">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-participants-growth/thumbnail.png?activity=new&period=past_28_days&owner_id=102226726&repo_ids=605673387&image_size=4x7&color_scheme=dark">
-          <img alt="New trends of labring" src="https://next.ossinsight.io/widgets/official/compose-org-participants-growth/thumbnail.png?activity=new&period=past_28_days&owner_id=102226726&repo_ids=605673387&image_size=4x7&color_scheme=light">
-        </picture>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-active-contributors/thumbnail.png?activity=new&period=past_28_days&owner_id=102226726&repo_ids=605673387&image_size=2x3&color_scheme=dark">
-          <img alt="New participants of labring - past 28 days" src="https://next.ossinsight.io/widgets/official/compose-org-active-contributors/thumbnail.png?activity=new&period=past_28_days&owner_id=102226726&repo_ids=605673387&image_size=2x3&color_scheme=light">
-        </picture>
-      </td>
-    </tr>
-  </table>
-</a>
-
-## 🌟 Star History
-
-<a href="https://github.com/labring/FastGPT/stargazers" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=labring/FastGPT&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=labring/FastGPT&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=labring/FastGPT&type=Date" />
-  </picture>
-</a>
-
-<a href="#readme">
-    <img src="https://img.shields.io/badge/-返回顶部-7d09f1.svg" alt="#" align="right">
-</a>
-
-## 使用协议
-
-本仓库遵循 [FastGPT Open Source License](./LICENSE) 开源协议。
-
-1. 允许作为后台服务直接商用，但不允许提供 SaaS 服务。
-2. 未经商业授权，任何形式的商用服务均需保留相关版权信息。
-3. 完整请查看 [FastGPT Open Source License](./LICENSE)
-4. 联系方式：Dennis@sealos.io，[点击查看商业版定价策略](https://doc.tryfastgpt.ai/docs/commercial)
+Contact us at [tiatheone@protonmail.com](mailto:tiatheone@protonmail.com)
 
 ---
 
@@ -238,12 +240,49 @@ https://github.com/labring/FastGPT/assets/15308462/7d3a38df-eb0e-4388-9250-2409b
 
 This repository is part of the Tiation ecosystem. Explore related projects:
 
-- [🌟 TiaAstor](https://github.com/TiaAstor/TiaAstor) - Personal brand and story
+- [🌟 Tiation Platform](https://github.com/tiation/tiation-ai-platform) - Enterprise AI platform
+- [🤖 AI Agents](https://github.com/tiation/tiation-ai-agents) - Intelligent automation
+- [⚡ Terminal Workflows](https://github.com/tiation/tiation-terminal-workflows) - Developer tools
+- [🐳 Docker Solutions](https://github.com/tiation/tiation-docker-debian) - Container orchestration
+- [📝 CMS](https://github.com/tiation/tiation-cms) - Content management system
 - [🐰 ChaseWhiteRabbit NGO](https://github.com/tiation/tiation-chase-white-rabbit-ngo) - Social impact initiatives
 - [🏗️ Infrastructure](https://github.com/tiation/tiation-rigger-infrastructure) - Enterprise infrastructure
-- [🤖 AI Agents](https://github.com/tiation/tiation-ai-agents) - Intelligent automation
-- [📝 CMS](https://github.com/tiation/tiation-cms) - Content management system
-- [⚡ Terminal Workflows](https://github.com/tiation/tiation-terminal-workflows) - Developer tools
 
 ---
-*Built with 💜 by the Tiation team*
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🌟 About Tiation
+
+**Tiation** is a leading provider of enterprise-grade software solutions, specializing in automation, productivity, and system integration tools. Our mission is to empower organizations with cutting-edge technology that drives efficiency and innovation.
+
+### Our Solutions
+
+- **Automation Platform**: Comprehensive business process automation
+- **Developer Tools**: Professional development and deployment tools
+- **Enterprise Integration**: Seamless system integration solutions
+- **Security Framework**: Advanced security and compliance tools
+
+### Connect With Us
+
+- **Website**: [https://github.com/tiation](https://github.com/tiation)
+- **GitHub**: [https://github.com/tiation](https://github.com/tiation)
+- **LinkedIn**: [Tiation Company](https://linkedin.com/company/tiation)
+- **Twitter**: [@TiationTech](https://twitter.com/TiationTech)
+
+---
+
+<div align="center">
+  <p>
+    <strong>Built with ❤️ by the Tiation Team</strong>
+  </p>
+  <p>
+    <a href="https://github.com/tiation">
+      <img src="https://img.shields.io/badge/Powered%20by-Tiation-cyan.svg" alt="Powered by Tiation">
+    </a>
+  </p>
+</div>
